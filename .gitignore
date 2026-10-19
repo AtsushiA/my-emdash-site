@@ -3,4 +3,5 @@ dist
 .astro
 uploads
 data.db
-.wrangler.emdash
+.wrangler
+.emdash
